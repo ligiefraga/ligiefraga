@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ligiefraga
-- 🌱 I’m currently learning SQL, VBA, JS, HTML, CSS, C++ & Phyton
+- 🌱 I’m currently learning VBA, SQL, Python and HTML
 - 📫 You can reach me at ligie.fraga@gmail.com
 
 <!---
